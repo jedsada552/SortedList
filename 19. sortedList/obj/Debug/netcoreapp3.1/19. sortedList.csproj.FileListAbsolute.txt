@@ -1,0 +1,19 @@
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\bin\Debug\netcoreapp3.1\19. sortedList.exe
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\bin\Debug\netcoreapp3.1\19. sortedList.deps.json
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\bin\Debug\netcoreapp3.1\19. sortedList.runtimeconfig.json
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\bin\Debug\netcoreapp3.1\19. sortedList.runtimeconfig.dev.json
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\bin\Debug\netcoreapp3.1\19. sortedList.dll
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\bin\Debug\netcoreapp3.1\19. sortedList.pdb
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\19. sortedList.csprojAssemblyReference.cache
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\19. sortedList_MarkupCompile.cache
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\19. sortedList_MarkupCompile.lref
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\19. sortedList.g.resources
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\19. sortedList.AssemblyInfoInputs.cache
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\19. sortedList.AssemblyInfo.cs
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\19. sortedList.csproj.CoreCompileInputs.cache
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\19. sortedList.dll
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\19. sortedList.pdb
+C:\Users\ACE03\source\repos\19. sortedList\19. sortedList\obj\Debug\netcoreapp3.1\19. sortedList.genruntimeconfig.cache
